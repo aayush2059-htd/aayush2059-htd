@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aayush2059-htd
-- 👀 I’m interested in block chain technology
-- 🌱 I’m currently learning html
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me aayushchaulagain755@gmail.com
 
